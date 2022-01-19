@@ -5,3 +5,5 @@ Tool-uri folosite:
 	-Postman pentru a testa;
 	-Maven pentru a crea, dezvolta si compila si uniformizeaza intregul proces de build si deployed;
 	-Spring Boot ne permite accelerarea creării unei aplicații web.
+
+Test new branch comit and merge
